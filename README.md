@@ -3,3 +3,6 @@ Explore the 1985 Cars Dataset project involves cleaning and analyzing a dataset 
 
 ## US Census Data
 This project demonstrates data cleaning techniques using R to process U.S. Census data, including tasks like handling duplicates, reformatting columns, and ensuring data consistency. The aim is to prepare the dataset for effective analysis and insight extraction.
+
+## Carbon Dioxide Levels
+This project visualizes historical carbon dioxide levels using R, comparing data from the past 8,000 years with the last two millennia to highlight trends and changes. By creating informative line graphs, the project aims to provide insights into the fluctuations and recent increases in atmospheric CO2 levels.
