@@ -6,3 +6,6 @@ This project demonstrates data cleaning techniques using R to process U.S. Censu
 
 ## Carbon Dioxide Levels
 This project visualizes historical carbon dioxide levels using R, comparing data from the past 8,000 years with the last two millennia to highlight trends and changes. By creating informative line graphs, the project aims to provide insights into the fluctuations and recent increases in atmospheric CO2 levels.
+
+## A/B Testing for ShoeFly.com
+This project involves analyzing A/B test data for ShoeFly.com to evaluate the performance of two different ad versions across various platforms and days of the week. By calculating and comparing click-through rates, the project aims to identify the most effective ad and platform combination for maximizing user engagement.
