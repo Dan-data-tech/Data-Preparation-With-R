@@ -9,3 +9,6 @@ This project visualizes historical carbon dioxide levels using R, comparing data
 
 ## A/B Testing for ShoeFly.com
 This project involves analyzing A/B test data for ShoeFly.com to evaluate the performance of two different ad versions across various platforms and days of the week. By calculating and comparing click-through rates, the project aims to identify the most effective ad and platform combination for maximizing user engagement.
+
+## Page Visits Funnel
+This project analyzes the sales funnel for Cool T-Shirts Inc. by examining user interactions at various stages, from website visits to final purchases. By using data joins and calculating conversion rates, the project identifies where potential customers drop off, providing insights for improving the sales process.
