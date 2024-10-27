@@ -12,3 +12,6 @@ This project involves analyzing A/B test data for ShoeFly.com to evaluate the pe
 
 ## Page Visits Funnel
 This project analyzes the sales funnel for Cool T-Shirts Inc. by examining user interactions at various stages, from website visits to final purchases. By using data joins and calculating conversion rates, the project identifies where potential customers drop off, providing insights for improving the sales process.
+
+## Central Tendency for Housing Data
+In this project, the goal is to analyze the cost of one-bedroom apartments in Brooklyn, Manhattan, and Queens by calculating the mean, median, and mode. Using these measures of central tendency, conclusions about the cost of living in each borough are drawn, highlighting differences and assumptions in the data.
